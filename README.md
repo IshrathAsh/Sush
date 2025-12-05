@@ -96,4 +96,3 @@ Built as a major project to explore the intersection of AI and media processing.
 
 ---
 
-*Made with ❤️ and 🐍 Python.*
