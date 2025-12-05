@@ -6,7 +6,7 @@ st.markdown("""
 Hi! I'm :blue[**Shaik Mahammad Ishrath**] (U can call me Ish),  
 a *curious engineer* blending **tech, design, and storytelling**.  
 
-I built :red[***SUSH***] as a fun-project to explore:
+I built :red[***SUSH***] as a curious-project to explore:
 - Audio processing
 - Speech-to-text AI/ML Models
 - Real-world use cases for anyone 
