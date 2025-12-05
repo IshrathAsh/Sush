@@ -1,0 +1,8 @@
+streamlit
+pydub
+better_profanity
+moviepy
+SpeechRecognition
+numpy
+# whisperx is often installed from git, but we can try pypi or let user handle it if it fails.
+# git+https://github.com/m-bain/whisperx.git

@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Streamlit
+.streamlit/
+
+# Media Files (Large)
+*.mp4
+*.mp3
+*.wav
+*.mkv
+*.mov
+*.avi
+*.webm
+temp_extracted_audio.wav
+output_video_censored.mp4
+SUSHED_*.mp3
+SUSHED_*.mp4
+
+# FFmpeg
+ffmpeg/
+ffmpeg_temp/
+install_ffmpeg.ps1
+
+# IDE
+.vscode/
+.idea/
+
+# Other
+*.log
